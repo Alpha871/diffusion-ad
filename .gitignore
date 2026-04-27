@@ -1,0 +1,6 @@
+data/
+datasets/
+outputs/
+imgs/
+__MACOSX/
+*.zip
