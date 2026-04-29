@@ -280,7 +280,7 @@ def main():
     dagm_class = ['Class1', 'Class2', 'Class3', 'Class4',
                   'Class5', 'Class6', 'Class7', 'Class8', 'Class9', 'Class10']
 
-    current_classes = mvtec_classes + visa_classes
+    current_classes = mvtec_classes + visa_classes +  mpdd_classes
 
     class_type = ''
     for sub_class in current_classes:
